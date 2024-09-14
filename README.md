@@ -3,7 +3,7 @@ Dall-E-3 Image Generation Library for Lazarus 3.4
 # Demo program
 ![alt](image/Dalle-3-ui.jpg)
 # For the generation to work, you need to enter the Api Token
-  ## Get API Token [link]([https://](https://platform.openai.com/docs/overview))
+  ## Get API Token [link](https://platform.openai.com/docs/overview)
 ## The library is called imagegenerator.pas
 # Required libraries
 * libeay32.dll
